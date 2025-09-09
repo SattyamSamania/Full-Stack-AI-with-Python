@@ -9,9 +9,11 @@ It is designed to demonstrate growth from **core Python skills → applied AI/ML
 
 ## 📂 Project Structure
 
-- **basics/** → Core Python fundamentals
-- **datatypes/** → Hands-on with Python data structures (lists, tuples, sets, dicts, strings, etc.)
-- **venv/** → Virtual environment (ignored in Git using `.gitignore`)
+- **00_basics/** → Core Python fundamentals
+- **01_Virtual** → Virtual environment (ignored in Git using `.gitignore`)
+- **02_datatypes/** → Hands-on with Python data structures (lists, tuples, sets, dicts, strings, etc.)
+- **03_Conditions** → Hands-on with Python Conditional statements (if, else, elif, match-case, ternary opertors)
+- **04_loops** → Practice programs with loops (for, while)
 
 ---
 
