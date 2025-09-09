@@ -14,6 +14,7 @@ It is designed to demonstrate growth from **core Python skills → applied AI/ML
 - **02_datatypes/** → Hands-on with Python data structures (lists, tuples, sets, dicts, strings, etc.)
 - **03_Conditions** → Hands-on with Python Conditional statements (if, else, elif, match-case, ternary opertors)
 - **04_loops** → Practice programs with loops (for, while)
+- **05_functions** → Excercises covering functions (duplication, readability, hiding, scopes, return, etc.)
 
 ---
 
