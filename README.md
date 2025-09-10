@@ -16,6 +16,9 @@ It is designed to demonstrate growth from **core Python skills → applied AI/ML
 - **04_loops** → Practice programs with loops (for, while)
 - **05_functions** → Excercises covering functions (duplication, readability, hiding, scopes, return, etc.)
 - **06_Comprehensions** → Comprehensions programs covering lists, set and dictionaries
+- **07_Generators** → Generators programs
+- **08_Exception_Handling** → Exception Handling programs
+- **09_oops** → OOPS excercises like class, objects, Constructors, Inheritance, etc...
 
 ---
 
